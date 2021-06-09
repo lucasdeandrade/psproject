@@ -9,7 +9,7 @@ export default props =>
 <div className="Espaco"  >
     <div className="Imagem" id="imagem-DaysGone"></div>
     <div className="Conteudo">
-        <h1 id="titulo">Days Gone</h1>
+        <h1 id="titulo">Days-Gone</h1>
         <h2 id="subtitulo">Uma longa história</h2>
         <h6 id="texto">
             A história de Days Gone decorre cerca de dois anos após o surto do vírus que transformou quase toda a população em Freakers.<br/><br/>

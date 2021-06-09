@@ -2,38 +2,37 @@
     display: flex;
     align-items: center;
     background-color: rgb(48, 48, 48);
-    height: 100vw;
+    height: 80vw;
     flex-direction: column;
 }
 .Imagem {
-    margin-top: 5vw;
-    flex: 1;
+    margin-top: 3vw;
+    flex: 2;
     width: 95%;
     border-top-left-radius: 3vw;
     border-top-right-radius: 3vw;
 }
 .Conteudo{ 
-    width: 95%;
-    flex: 1;
+    width: 100%;
+    flex: 3;
     background-color: white;
-    border-bottom-left-radius: 3vw;
-    border-bottom-right-radius: 3vw;
-    margin-bottom: 1vw;
+    /* border-bottom-left-radius: 3vw;
+    border-bottom-right-radius: 3vw; */
 }
 #imagem-Gow{
     background: url("../../images/CapaGow.jpg") no-repeat;
-    background-size: 75vw;
+    background-size: 89vw;
 }
 #imagem-DaysGone{
     background: url("../../images/DaysgonePainel.jpg") no-repeat;
-    background-size: 78vw;
+    background-size: 89vw;
 }
 #imagem-Ghost{
     background: url("../../images/Ghost_Poster.jpg") no-repeat;
-    background-size: 75vw;
+    background-size: 89vw;
 }
 #titulo {
-    margin-top: 4vw;
+    margin-top: 2vw;
     margin-bottom: 2vw;
     font-size: 5vw;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',cursive   ;
